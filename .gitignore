@@ -1,0 +1,30 @@
+# Envs
+.venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/Build
+node_modules/
+dist/
+build/
+
+# Generated outputs
+output/*
+!output/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,5 @@
+Description:
+Agentic engineering team: multi‑agent AI system that plans, codes, reviews, and documents software projects collaboratively.
+
+Tags:
+crewai, agentic-ai, multi-agent, engineering, team, collaboration, developer-tools, openai, llm, langchain, autonomous-agents, python, software-engineering, code-review, planning
