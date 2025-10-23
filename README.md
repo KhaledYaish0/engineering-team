@@ -63,17 +63,3 @@ uv pip install -e .
 ```bash
 python -m src.engineering_team.main
 ```
-
-## GitHub: Publish
-```bash
-git init
-git add .
-git commit -m "Initial commit: Engineering Team agents"
-git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/engineering-team.git
-git push -u origin main
-```
-
-## Notes
-- Cleaned environment and build artifacts removed.
-- `output/` kept empty in Git using `.gitkeep`.
